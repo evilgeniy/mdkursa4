@@ -10,5 +10,5 @@
 * 
 ## 🔻**Wareframe:**
 
-![Image alt](https://github.com/evilgeniy/mdkursa4/Wireframe.png)
+![Image alt](https://github.com/evilgeniy/mdkursa4/blob/main/Wireframe.png)
 
