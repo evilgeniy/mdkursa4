@@ -17,5 +17,5 @@
 
 
 ## 🔻**Education/courses**
-**BSUIR**
-**RS Schools Course «JavaScript/Front-end (2023)**
+* **BSUIR**
+* **RS Schools Course «JavaScript/Front-end (2023)**
