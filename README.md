@@ -15,9 +15,4 @@
 
 
 
-##  🔻**Language**
-| Language   |  Level | 
-|:---------  |:-------| 
-| English    |   A2   | 
-| Belarusian |   B1   | 
-| Ukranian   |   B1   | s
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evilgeniy)](https://github.com/evilgeniy/github-readme-stats)
