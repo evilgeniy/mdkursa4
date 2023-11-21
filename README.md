@@ -15,4 +15,4 @@
 
 
 * **Belarusian State University**
-  * [Faculty of Philosophy and Social Sciences](https://bsu.by/en/structure/faculties/fakultet-filosofii-i-sotsialnykh-nauk-d)
+
