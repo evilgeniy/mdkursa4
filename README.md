@@ -7,7 +7,7 @@
 * Viewing the best cocktails according to the editors
 * Search for cocktails
 * View cocktail recipes
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilgeniy)](https://github.com/evilgeniy/github-readme-stats)
 
 ## 🔻**Wareframe:**
 
@@ -16,4 +16,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilgeniy)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evilgeniy)
