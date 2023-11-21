@@ -14,4 +14,4 @@
 ![Image alt](https://github.com/evilgeniy/mdkursa4/blob/main/Wireframe.png)
 
 
-![image](C:/Users/Acer/Desktop/89.jpg)
+![image](https://github.com/evilgeniy/jigsaw/blob/main/89.png)
