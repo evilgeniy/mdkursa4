@@ -15,3 +15,9 @@
 
 
 
+##  🔻**Language**
+| Language   |  Level | 
+|:---------  |:-------| 
+| English    |   A2   | 
+| Belarusian |   B1   | 
+| Ukranian   |   B1   | s
