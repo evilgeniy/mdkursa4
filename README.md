@@ -14,4 +14,4 @@
 ![Image alt](https://github.com/evilgeniy/mdkursa4/blob/main/Wireframe.png)
 
 
-![image](https://user-images.githubusercontent.com/68957176/146823494-92d8572d-aaa4-41fb-ac1f-64bea54f99a8.png)
+![image](https://user-images.githubusercontent.com/file:///C:/Users/Acer/Desktop/89.jpg)
