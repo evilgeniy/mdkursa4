@@ -13,4 +13,4 @@
 
 ![Image alt](https://github.com/evilgeniy/mdkursa4/blob/main/Wireframe.png)
 
-<a href="mailto:a.l.l.c.a.s.h.0.1.0.1@gmail.com">Текст ссылки</a>
+
